@@ -1,0 +1,17 @@
+{
+  "name": "my-gridsome-portfolio-app",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.3.10"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.5.55",
+    "webpack-node-externals": "^2.5.2"
+  }
+}
